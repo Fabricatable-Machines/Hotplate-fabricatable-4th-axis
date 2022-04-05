@@ -20,6 +20,13 @@
 
  - 3D print parts and assemble
 
+### Development pics
+
+![](img/xaccto-blade-in-er11-extension-and-gears.JPG)
+
+![](img/xaccto-blade-and-holders.JPG)
+
+
 ### Screnshots of CAD sketch
 
 ![](img/4th-axis-sketch-perspective.JPG)
