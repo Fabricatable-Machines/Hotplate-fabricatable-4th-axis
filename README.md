@@ -1,6 +1,13 @@
 # Hotplate fabricatable 4th-axis
-*by Jens Dyvik, april 2022*
+*started by Jens Dyvik, april 2022*
 **Status: early design phase**
+
+### 21st of March 2024
+
+First tests with rotary knife and marker holders
+![](img/klaeat-toolchanger-first-tests.jpg)
+
+
 
 ### What
 
